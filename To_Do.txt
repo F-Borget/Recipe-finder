@@ -1,0 +1,79 @@
+
+To Do [ + en cours, - à faire, = done]
+Acronymes [ M, Je, Ji, A, Fa, Fl ]
+
+
+--Mettre à jour le document--
+
+#Mon Frigo 
+
+- Fonction pour mettre à jour le nombre d'ingrédients dans le frigo (requête bdd) -> [BACK-END] Fa-
+
+- Taille de page dynamique 
+
+- Fonctionnement des boutons pour les ingrédients (edit, delete) -> [BACK-END] Fa=
+
+- Ajout tiret entre les éléments 
+
+
+#Mes Recettes 
+
+- Taille de page dynamique 
+
+- Ajout formulaire création de sélection (bouton +)
+
+- Ajout de la liste des sélections existantes (requête bdd) -> [BACK-END] Fa=
+
+- Ajout de l'icon pour la page détail
+
+- Ajout des icons pour les recettes (spoonacular score, meal type, preparation time)
+
+- Fonction pour ajouter les ingrédients manquants de la recette à ma Shopping List
+
+- Gérer les ingrédients manquants, utilisés dans la recherche des recettes
+
+- Fixer la taille des boutons pour sélectionner les ingrédients (c'est moche quand on en a qu'un seul dans le frigo)
+
+
+#Mes Favoris 
+
+- Formulaire pour créer sélection (requête bdd) -> [BACK-END] Fa=
+
+- Fonctionnement des boutons des sélections (edit, delete) (requête bdd) -> [BACK-END] Fa=
+
+- Fonctionnement du bouton pour les recettes (delete) (requête bdd) -> [BACK-END] Fa-
+
+- Fonctionnement bouton pour ajouter ingrédient à ma Shopping List -> [BACK-END] Fa-
+
+- Ajout de l'icon pour la page détail
+
+- Reprendre l'interface avec 3 panels (voir photo)z
+
+
+
+#My Shopping List
+
+- Reprise de la logique de My Fridge pour :
+
+     - le formuaire
+     - le comptage des éléments de la liste 
+     - les boutons des éléments de la liste (edit, delete)
+
+- Problème si on ajoute un élément au frigo, ça l'ajoute à la ShoppingList
+
+
+#Global 
+
+- Amélioration du visuel des formulaires 
+
+- Amélioration du visuel de la page Result Recipe Detail
+
+- Amélioration du visuel des boutons (menu, pages), des scrollbars
+
+- Modification des couleurs pour matcher l'interface
+
+- Ajout des icons pour edit et delete (stylo, update)
+
+- Reprendre les visuels selon les notes du PO 
+
+
